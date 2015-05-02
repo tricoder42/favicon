@@ -40,6 +40,9 @@ setup(
     include_package_data=True,
 
     cmdclass={'test': PyTest},
+    install_requires=[
+        'Pillow',
+    ],
     tests_require=test_requirements,
     extras_require={
         'tests': test_requirements,
