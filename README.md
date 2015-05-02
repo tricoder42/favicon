@@ -10,9 +10,7 @@ screens and devices, you know why. The main reasons are:
 1. It should be **automated** (there's zero logic)
 2. It should be kept **updated** (new devices emerge often)
 
-Interesting reading:
-
-- [https://mathiasbynens.be/notes/touch-icons](https://mathiasbynens.be/notes/touch-icons)
+Based on [Favicon CheatSheet](https://github.com/audreyr/favicon-cheat-sheet)
 
 ## Installation
 
